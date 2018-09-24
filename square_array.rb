@@ -6,3 +6,5 @@ def square_array(array)
   end
   new
 end
+
+square_array(numbers)
